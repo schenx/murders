@@ -6,4 +6,4 @@ download-data.R - downloads .csv data file into data directory
 
 wrangle-data.R - creates a derived data set and saves data as R object in data directory
 
-analysis.R - generates a plot and saves it in the figs directorypwd
+analysis.R - generates a plot and saves it in the figs directorypwdaddline
